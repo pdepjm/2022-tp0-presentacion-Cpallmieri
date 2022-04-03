@@ -2,6 +2,6 @@
 
 ## Estudiante: Ciro Palmieri
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+## Descripción: Tengo 19 años, estoy cursando mi segundo año en UTN en la carrera de ingeniería en sistemas. Estudié en la escuela secundaría ORT en la orientacion de informática, de la cual me egresé en 2020.
 
 ![mi foto](FotoCV.jpg)
